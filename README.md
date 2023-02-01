@@ -1,14 +1,14 @@
-Organización y Arquitectura de Computadoras 💻🪛
+Lógica Computacional 💻
 =========================================
 
 Curso Completo 2023-2
 -------------------------------------------
 
-### Profesor: José de Jesús Galaviz Casas
+### Profesor: Javier Enríquez Mendoza 
 
 ### Ayudantes
 
-* María Ximena Lezama Hérnandez
-* Ricardo Enrique Pérez Hernández
+* Kevin Axel Prestegui Ramos
+* Ramón Arenas Ayala
 
-Prácticas y teoría realizadas durante el curso de Organización y Arquitectura de Computadoras.
+Prácticas y tareas realizadas durante el curso de Lógica Computacional.
