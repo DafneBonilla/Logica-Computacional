@@ -1,10 +1,8 @@
 # Prácticas 💻
 
-## Curso de Organización y Arquitectura de Computadoras 2023-2
+### Temario:
 
-### Prácticas realizadas durante el curso:
-
-> - Práctica 01: Uso de Strategy y Observer.
-> - Práctica 02: Uso de Template, State e Iterator.
-> - Práctica 03: Uso de Decorator y Adapter.
-> - Práctica 04: Uso de Builder.
+> - Práctica 01: Introducción a Haskell.
+> - Práctica 02: 
+> - Práctica 03: 
+> - Práctica 04: 
