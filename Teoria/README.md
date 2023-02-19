@@ -1,8 +1,6 @@
-# Teoría 📒
-
-## Curso de Organización y Arquitectura de Computadoras 2023-2
+# 📌 Teoría 
 
 ### Teoría dada durante el curso:
 
-> - Presentaciones de clases y ayudantías.
-> - Código y diagramas UML de ayudantías.
+> - Presentaciones y notas de clases y ayudantías.
+> - Código de Android Studio y Kotlin.
