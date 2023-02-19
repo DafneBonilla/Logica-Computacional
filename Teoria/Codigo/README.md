@@ -2,5 +2,5 @@
 
 ### Índice:
 
-1. 
+1. Introducción a Haskell
 2. 
