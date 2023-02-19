@@ -2,5 +2,5 @@
 
 ### Índice:
 
-1. 
+1. Principio de Inducción Matemática
 2. 
