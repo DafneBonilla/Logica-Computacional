@@ -8,6 +8,4 @@
 
 ## **📌 Nota**
 
-<div align="justify">
-Para correr las pruebas unitarias se hicieron cambios en el archivo `test.hs` para el uso de la función pascalN.
-</div>
+Para correr las pruebas unitarias se hicieron cambios en el archivo `Test.hs` para el uso de la función pascalN.
