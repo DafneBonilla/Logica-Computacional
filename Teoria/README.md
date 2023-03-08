@@ -2,5 +2,5 @@
 
 ### Teoría dada durante el curso:
 
-> - Presentaciones y notas de clases y ayudantías.
-> - Código de Android Studio y Kotlin.
+- Notas de clases y ayudantías.
+- Código en `Haskell`.
