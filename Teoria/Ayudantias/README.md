@@ -10,3 +10,4 @@
 6. Forma Normal Negativa y Forma Normal Conjuntiva
 7. Ejemplo de Algoritmo Usando FNN y FNC
 8. Algoritmo DPLL
+9. Algoritmo de Saturación
