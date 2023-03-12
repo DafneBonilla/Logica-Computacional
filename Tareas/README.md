@@ -1,6 +1,6 @@
-# 📌 Teoría 
+# 📝 Tareas 
 
-### Teoría dada durante el curso:
+## Tareas realizadas durante el curso:
 
-- Notas de clases y ayudantías.
-- Código en `Haskell`.
+- Tarea Examen 01: Lógica Proposicional
+- 
