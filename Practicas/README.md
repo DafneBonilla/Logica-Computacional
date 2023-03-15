@@ -4,5 +4,4 @@
 
 - Práctica 01: Introducción a Haskell
 - Práctica 02: Resolución Binaria
-- Práctica 03: 
-- Práctica 04: 
+- Práctica 03: Algoritmo DPLL
