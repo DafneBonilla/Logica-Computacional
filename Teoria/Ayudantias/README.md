@@ -1,4 +1,4 @@
-# 📂 Presentaciones de ayudantías
+# 📂 Notas de Ayudantías
 
 ### Índice:
 
