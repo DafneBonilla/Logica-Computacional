@@ -1,4 +1,4 @@
-# 📂 Presentaciones de clases
+# 📂 Notas de Clases
 
 ### Índice:
 
