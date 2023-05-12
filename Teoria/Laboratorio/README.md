@@ -1,4 +1,4 @@
-# 🖱️ Código de ayudantías </>
+# 🖱️ Código de Laboratorio </>
 
 ### Índice:
 
@@ -8,3 +8,4 @@
 4. Resolución Binaria
 5. Implementación Formas Normales y Resolución Binaria
 6. El Problema SAT y DPLL
+7. Implementación y Árbol DPLL
