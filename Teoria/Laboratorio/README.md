@@ -11,4 +11,4 @@
 7. Construcción de Árboles DPLL
 8. Introducción a Prolog
 9. Algoritmo de Hao Wang
-10. Introducción a Prolog
+10. Introducción a Coq
