@@ -17,3 +17,4 @@
 13. Composición de Sustituciones
 14. Algoritmo de Unificación y FNN
 15. Resolución Binaria y Árbol SDL
+16. Derivaciones
