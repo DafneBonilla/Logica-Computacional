@@ -1,8 +1,5 @@
 Lógica Computacional 
 =========================================
-
-<p align="center"><img width="400" src="Teoria/Haskell-Logo.svg" alt="Logo de Haskell"></p>
-
 Curso Completo 2023-2
 -------------------------------------------
 
