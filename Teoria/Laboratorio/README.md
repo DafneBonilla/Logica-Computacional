@@ -12,3 +12,5 @@
 8. Introducción a Prolog
 9. Algoritmo de Hao Wang
 10. Introducción a Coq
+11. Datos Estructurados y Listas
+12. Verificación de Programas
